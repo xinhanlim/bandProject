@@ -10,10 +10,15 @@ body{
     justify-content: flex-start;
     font-size: 56px !important;
     height: fit-content;
+    flex-wrap: wrap;
 }
 
 .navbar{
     height: 120px;
+    position: sticky !important;
+    top:0%;
+    background-color: #fefefe;
+    z-index: 100;
 }
 
 .navbar-collapse{
@@ -146,7 +151,62 @@ body{
     display: flex;
     flex-direction: row;
     justify-content: center;
-
     width: 100%;
+}
 
+#shopSection{
+    background-color: #fefefe;
+    padding: 0px 0px 124px 0px;
+    height: fit-content;
+}
+
+.headerPadding{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 124px 0px 64px 0px;
+}
+
+.cardShop{
+    padding: 0px 8px;
+}
+
+.cardHeader{
+    font-size: 24px;
+    line-height: 1;
+    text-align: center;
+}
+
+.card{
+    padding: 0px 0px 0px 0px;
+    border: 4px solid #282828 !important;
+    
+}
+
+.card:hover{
+    background-color: #282828;
+    color: #fefefe;
+    transition-duration: 0.3s ;
+}
+
+.headerText2{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 32px;
+    font-size: 52px;
+    line-height: 1;
+    align-items: flex-end;
+    color: #282828;
+}
+
+.card-body{
+    min-height: 88px;
+}
+
+.col{
+    padding: 0px 0px 32px 0px;
+}
+
+.cardLink{
+    text-decoration: none;
 }

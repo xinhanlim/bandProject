@@ -101,6 +101,7 @@ body{
 
 .btnPurchase:hover{
     background-color: #fefefe;
+    transition-duration: 0.3s ;
 }
 
 .btnPurchase:hover .btnLine{
@@ -126,6 +127,7 @@ body{
 
 .btnListen:hover{
     background-color: #282828;
+    transition-duration: 0.3s ;
 }
 
 .btnListen:hover .btnLine3{
@@ -145,6 +147,7 @@ body{
     margin: 0px;
     font-size: 24px;
     color:#282828;
+    
 }
 
 .heroBtn{

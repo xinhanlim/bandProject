@@ -96,6 +96,7 @@ body{
     background-color: #282828;
     text-decoration: none;
     border: none;
+    padding: 0px;
 
 }
 
@@ -122,7 +123,7 @@ body{
     background-color: #fefefe;
     text-decoration: none;
     border: none;
-
+    padding: 0px;
 }
 
 .btnListen:hover{
@@ -159,7 +160,7 @@ body{
 
 #shopSection{
     background-color: #fefefe;
-    padding: 0px 0px 124px 0px;
+    padding: 0px 0px 64px 0px;
     height: fit-content;
 }
 
@@ -212,4 +213,71 @@ body{
 
 .cardLink{
     text-decoration: none;
+}
+
+#groupImage{
+    z-index: 200;
+    height: 80vh;
+    background-image: url(images/the-script-fam.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#tours{
+    height: fit-content;
+    background-color: #282828;
+}
+
+.tourDates{
+    padding: 32px 0px;
+}
+
+.tourCard{
+    background-color: #fefefe;
+    /* min-width: 320px; */
+    padding: 24px 24px;
+}
+
+.tourLocation{
+    color: #282828;
+}
+
+.tourCard-body{
+    line-height: 1;
+}
+
+.tourText{
+    font-size: 20px;
+    color: #282828;
+}
+
+.tourDetails{
+    color: #282828;
+    padding: 0px 0px 24px 0px;
+}
+
+.ticketLink{
+    color: #282828;
+    text-decoration: none;
+    padding-top: 24px;
+}
+
+.ticketLink:hover{
+    text-decoration: underline;
+    transition-duration: 1s;
+    transition-timing-function: linear;
+}
+
+.tourDatesCard{
+    padding: 24px 32px;
+    width: 100%;
+    flex-direction: row;
+    margin: 0% !important;
+}
+
+.tourCol{
+    padding: 8px !important;
+    margin: 0% !important;
 }

@@ -306,16 +306,46 @@ body{
 }
 
 #videos{
-    height: 120vh;
+    height: auto;
+    padding: 0px 0px 32px 0px;
+}
+
+video{
+    width: 100%;
 }
 
 .videoPlacement{
     display: flex;
     justify-content: center;
     width: 100%;
+    padding: 0px 0px 32px 0px;
 }
 
 .videoTextSection{
     display: flex;
     flex-direction: row;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding: 32px 32px 0px 32px;
+    flex-direction: column;
+}
+.footerText{
+   font-size: 14vw;
+   text-align: center;
+}
+
+.copyright{
+    font-size: 8px;
+    padding: 64px 0px 0px 0px;
+
+}
+
+.footerText2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }

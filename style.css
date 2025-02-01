@@ -14,21 +14,32 @@ body{
 }
 
 .navbar{
-    height: 120px;
     position: sticky !important;
     top:0%;
     background-color: #fefefe;
     z-index: 100;
+    justify-content: center;
+}
+
+.navbar-nav{
+    width: 100%;
+    justify-content: space-between;
 }
 
 .navbar-collapse{
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
+    padding: 0px 22px;
+    text-align: center;
 
 }
 
+/* .active{
+    text-decoration: underline !important;
+} */
+
 .nav-item{
-    padding: 0px 20px 0px 20px;
+    /* padding: 0px 20px 0px 20px; */
 }
 
 #heroImg{
@@ -235,13 +246,18 @@ body{
 }
 
 .tourCard{
+    display: flex;
+    flex-direction: column;
     background-color: #fefefe;
     /* min-width: 320px; */
     padding: 24px 24px;
+    min-height: 340px;
+    justify-content: space-between !important;
 }
 
 .tourLocation{
     color: #282828;
+    margin: 0%;
 }
 
 .tourCard-body{
@@ -256,6 +272,7 @@ body{
 .tourDetails{
     color: #282828;
     padding: 0px 0px 24px 0px;
+    margin: 0%;
 }
 
 .ticketLink{
@@ -280,4 +297,8 @@ body{
 .tourCol{
     padding: 8px !important;
     margin: 0% !important;
+}
+
+.locationT{
+    padding: 0px 0px 24px 0px;
 }

@@ -62,7 +62,7 @@ body{
 .headerText{
     display: flex;
     justify-content: space-between;
-    padding: 0px 32px;
+    padding: 0px 32px 0px 32px;
     font-size: 52px;
     line-height: 1;
     align-items: flex-end;
@@ -114,6 +114,7 @@ body{
 .btnPurchase:hover{
     background-color: #fefefe;
     transition-duration: 0.3s ;
+    text-decoration: underline #282828;
 }
 
 .btnPurchase:hover .btnLine{
@@ -140,6 +141,7 @@ body{
 .btnListen:hover{
     background-color: #282828;
     transition-duration: 0.3s ;
+    text-decoration: underline #fefefe;
 }
 
 .btnListen:hover .btnLine3{
@@ -179,7 +181,7 @@ body{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    padding: 124px 0px 64px 0px;
+    padding: 92px 0px 64px 0px;
 }
 
 .cardShop{
@@ -301,4 +303,19 @@ body{
 
 .locationT{
     padding: 0px 0px 24px 0px;
+}
+
+#videos{
+    height: 120vh;
+}
+
+.videoPlacement{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.videoTextSection{
+    display: flex;
+    flex-direction: row;
 }

@@ -19,8 +19,11 @@ body{
     background-color: #fefefe;
     z-index: 100;
     justify-content: center;
+    padding: 0px!important;
 }
-
+.container-fluid{
+    margin: 8px 0px;
+}
 .navbar-nav{
     width: 100%;
     justify-content: space-between;
@@ -185,7 +188,7 @@ body{
 }
 
 .cardShop{
-    padding: 0px 8px;
+    padding: 0px 32px;
 }
 
 .cardHeader{
@@ -330,17 +333,19 @@ footer{
     display: flex;
     justify-content: center;
     width: 100%;
-    padding: 32px 32px 0px 32px;
+    padding: 32px 32px 8px 32px;
     flex-direction: column;
+    background-color: #282828;
 }
 .footerText{
    font-size: 14vw;
    text-align: center;
+   color: #fefefe;
 }
 
 .copyright{
     font-size: 8px;
-    padding: 64px 0px 0px 0px;
+    padding: 64px 0px 0px 0px;color: #fefefe;
 
 }
 
@@ -348,4 +353,142 @@ footer{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    color: #fefefe;
 }
+
+.navbarSale{
+    display: flex;
+    flex-direction: column;
+    margin: 0%;
+    text-align: center;
+}
+
+.winterSale{
+    background-color: #282828;
+    width: 100%;
+}
+
+.saleWhite{
+    color: #fefefe;
+    margin: 0%;
+    padding: 8px 0px;
+}
+
+.merchShop{
+    padding: 32px 32px;
+    background-color: #282828;
+}
+
+.merchHeader{
+    margin: 0%;
+    padding: 32px 0px 0px 0px;
+    background-color: #282828;
+}
+
+.merchText{
+    color: #fefefe;
+    text-align: center;
+}
+
+#merchBackground{
+    width: 100%;
+    height: auto;
+    /* background-image: url(images/the-script.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; */
+}
+
+.card-img-top2{
+    height: 320px;
+    background-image: url(images/sampleProduct.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+/* .card-img-top2:hover{
+    background-image: url(images/sampleProduct2.png);
+    transition-duration: 0.3s;
+    scale: 1;
+} */
+
+.card2{
+    background-color: #282828;
+    border: #fefefe solid 4px;
+    border-radius: 8px;
+}
+
+.card2:hover{
+    background-color: #fefefe;
+    transition-duration: 0.3s;
+}
+.card2:hover .card-img-top2{
+    background-image: url(images/sampleProduct2.png);
+    transition-duration: 0.3s;
+    scale: 1;
+}
+
+.card2:hover .card-text2{
+    color: #282828;
+    opacity: 70%;
+}
+
+.card2:hover .merchCardSe{
+    border: #282828 1px solid;
+    opacity: 80%;
+}
+
+
+.card-text2{
+    color: #fefefe;
+    text-align: center;
+}
+
+.card-body2{
+    padding: 16px 16px;
+}
+
+.merchCardSe{
+    border: #fefefe 1px solid;
+    opacity: 80%;
+}
+
+.card-text-scale{
+    font-size: 18px;
+}
+
+.discountedPrice{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    gap: 24px;
+    padding: 16px 0px;
+}
+
+.footerWhite{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding: 32px 32px 8px 32px;
+    flex-direction: column;
+    background-color: #fefefe ;
+}
+.footerTextBlack{
+   font-size: 14vw;
+   text-align: center;
+   color: #282828;
+}
+
+.copyrightBlack{
+    font-size: 8px;
+    padding: 64px 0px 0px 0px;color: #282822;
+
+}
+
+/* .footerTextBlack{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #282828;
+} */

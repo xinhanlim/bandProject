@@ -21,7 +21,7 @@ Organization Goals
 # Scope of Project
 Based on the goals that was set.
 
-Landing Page - 
+## Landing Page - 
 Hero Image & Latest Album – When users enter the website, a hero image of The Script’s latest album will be showcased, keeping them updated on their newest music release.
 
 Exclusive Bundles – As users scroll down, they will discover exclusive bundles available prior to the album release. This section allows fans to explore and purchase merchandise while enabling the organization to generate revenue.

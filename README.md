@@ -22,10 +22,12 @@ Organization Goals
 Based on the goals that was set,
 
 ## 1. Landing Page - 
-1. Hero Image & Latest Album – When users enter the website, a hero image of The Script’s latest album will be showcased, keeping them updated on their newest music release.
+a. Hero Image & Latest Album – When users enter the website, a hero image of The Script’s latest album will be showcased, keeping them updated on their newest music release.
 
-2. Exclusive Bundles – As users scroll down, they will discover exclusive bundles available prior to the album release. This section allows fans to explore and purchase merchandise while enabling the organization to generate revenue.
+b. Exclusive Bundles – As users scroll down, they will discover exclusive bundles available prior to the album release. This section allows fans to explore and purchase merchandise while enabling the organization to generate revenue.
 
-3. Tour Dates – The next section of the homepage will display upcoming tour dates and locations, ensuring fans know when and where The Script will be performing live.
+c. Tour Dates – The next section of the homepage will display upcoming tour dates and locations, ensuring fans know when and where The Script will be performing live.
 
-4. Latest Music Video – A featured section will showcase The Script’s most recently published music video, allowing users to watch and listen. This also increases the likelihood of music purchases, supporting both the band and the organization.
+d. Latest Music Video – A featured section will showcase The Script’s most recently published music video, allowing users to watch and listen. This also increases the likelihood of music purchases, supporting both the band and the organization.
+
+e.Ending off with a FOOTER with a copyright.

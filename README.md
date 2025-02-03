@@ -19,13 +19,13 @@ Organization Goals
 1. Want user to purchase merchandise/products/tour tickets.
 
 # Scope of Project
-Based on the goals that was set.
+Based on the goals that was set,
 
-## Landing Page - 
-Hero Image & Latest Album – When users enter the website, a hero image of The Script’s latest album will be showcased, keeping them updated on their newest music release.
+## 1. Landing Page - 
+1. Hero Image & Latest Album – When users enter the website, a hero image of The Script’s latest album will be showcased, keeping them updated on their newest music release.
 
-Exclusive Bundles – As users scroll down, they will discover exclusive bundles available prior to the album release. This section allows fans to explore and purchase merchandise while enabling the organization to generate revenue.
+2. Exclusive Bundles – As users scroll down, they will discover exclusive bundles available prior to the album release. This section allows fans to explore and purchase merchandise while enabling the organization to generate revenue.
 
-Tour Dates – The next section of the homepage will display upcoming tour dates and locations, ensuring fans know when and where The Script will be performing live.
+3. Tour Dates – The next section of the homepage will display upcoming tour dates and locations, ensuring fans know when and where The Script will be performing live.
 
-Latest Music Video – A featured section will showcase The Script’s most recently published music video, allowing users to watch and listen. This also increases the likelihood of music purchases, supporting both the band and the organization.
+4. Latest Music Video – A featured section will showcase The Script’s most recently published music video, allowing users to watch and listen. This also increases the likelihood of music purchases, supporting both the band and the organization.

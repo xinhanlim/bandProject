@@ -1,15 +1,15 @@
 # User Centric Frontend Development Project-1, Xin Han.
-# Project Overview
+# - Project Overview
 This project is dedicated to building a user-centric static website for "The Script", an Irish rock band formed in 2001 in Dublin.
 The band moved to London after signing to Sony Label Group imprint Phonogenic and released their first album The Script in August 2008, preceded by the debut single "We Cry" as well as other singles such as "The Man Who Can't Be Moved", "Breakeven" and "Before the Worst".
 Soon after release, the album was ranked number one in both Ireland and UK.
 
 The website will serve as an immersive digital space where fans can explore the band’s music, merchandise and latest updates in a seamless, engaging way. 
 
-# Demo
+# - Demo
 A live website can be viewed through this link: https://xinhanlim.github.io/bandProject/
 
-# Understanding User and Organization Goals
+# - Understanding User and Organization Goals
 User Goals
 1. Want to keep updated to the latest music
 2. Want to buy exclusive band products.
@@ -18,7 +18,7 @@ User Goals
 Organization Goals
 1. Want user to purchase merchandise/products/tour tickets.
 
-# Scope of Project
+# - Scope of Project
 Based on the goals that was set,
 
 ## 1. Landing Page - 

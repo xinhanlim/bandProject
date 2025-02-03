@@ -19,7 +19,8 @@ Organization Goals
 1. Want user to purchase merchandise/products/tour tickets.
 
 # Scope of Project
-Based on the goals that was set, 
+Based on the goals that was set.
+
 Landing Page - 
 Hero Image & Latest Album – When users enter the website, a hero image of The Script’s latest album will be showcased, keeping them updated on their newest music release.
 

@@ -30,4 +30,4 @@ c. Tour Dates – The next section of the homepage will display upcoming tour da
 
 d. Latest Music Video – A featured section will showcase The Script’s most recently published music video, allowing users to watch and listen. This also increases the likelihood of music purchases, supporting both the band and the organization.
 
-e.Ending off with a FOOTER with a copyright.
+e. Ending off with a FOOTER with a copyright.

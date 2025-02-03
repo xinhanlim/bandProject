@@ -9,18 +9,18 @@ The website will serve as an immersive digital space where fans can explore the 
 # Demo
 A live website can be viewed through this link: https://xinhanlim.github.io/bandProject/
 
-#Understanding User and Organization Goals
-##User Goals
+# Understanding User and Organization Goals
+## User Goals
 1. Want to keep updated to the latest music
 2. Want to buy exclusive band products.
 3. Knowing when and where is the next Concert Tours.
 
-##Organization Goals
+## Organization Goals
 1. Want user to purchase merchandise/products/tour tickets.
 
 # Scope of Project
-##Based on the goals that was set, 
-##Landing Page - 
+## Based on the goals that was set, 
+## Landing Page - 
 Hero Image & Latest Album – When users enter the website, a hero image of The Script’s latest album will be showcased, keeping them updated on their newest music release.
 
 Exclusive Bundles – As users scroll down, they will discover exclusive bundles available prior to the album release. This section allows fans to explore and purchase merchandise while enabling the organization to generate revenue.
